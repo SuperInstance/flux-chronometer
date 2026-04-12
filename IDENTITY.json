@@ -1,0 +1,10 @@
+{
+  "name": "flux-chronometer",
+  "type": "vessel",
+  "field": "testing and conformance",
+  "voice": "build/coordination",
+  "born": "2026-04-12T18:51:44.788370+00:00",
+  "academy_graduate": false,
+  "vessel_built": false,
+  "confidence": 0.35
+}
